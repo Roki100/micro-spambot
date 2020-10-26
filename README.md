@@ -14,3 +14,5 @@ Microsoft Teams SpamBot Browser Script
 ### To use conversation creation spam script:
 * Do the same steps as above but make sure no input field is visble (every converstaion should have "reply" button)
 Also make sure you have permissions to make new conversations!
+This script will work in the same way in calls(meetings) as script.js if you have chat open.
+This script just removes the "protection" that script.js has causing it to spam new conversations
