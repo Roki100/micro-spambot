@@ -11,5 +11,6 @@ Microsoft Teams SpamBot Browser Script
 * Paste the code (Remember to edit num and message variable to fit your needs)
 * Done!
 
-### To use conversation spam script:
+### To use conversation creation spam script:
 * Do the same steps as above but make sure no input field is visble (every converstaion should have "reply" button)
+Also make sure you have permissions to make new conversations!
