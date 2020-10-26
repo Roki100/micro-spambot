@@ -10,3 +10,6 @@ Microsoft Teams SpamBot Browser Script
 * Switch to console if you are not in console
 * Paste the code (Remember to edit num and message variable to fit your needs)
 * Done!
+
+### To use conversation spam script:
+* Do the same steps as above but make sure no input field is visble (every converstaion should have "reply" button)
