@@ -17,3 +17,4 @@ function findChat() {
         });
     return name[0]; // First element always should be the right one
 }
+// Script by Roki written at 26.10.2020
