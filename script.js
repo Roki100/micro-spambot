@@ -7,7 +7,7 @@ for (let i = 0; i < num; i++) {
     $('#send-message-button').click();
 }
 function findChat() {
-    let name = []; // Array because it can return more than one elements
+    let name = []; // Array because it can return more than one element
     document
         .querySelectorAll('div[id^="cke_"]')
         .forEach(e => {
